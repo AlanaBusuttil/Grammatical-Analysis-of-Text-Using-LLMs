@@ -65,3 +65,5 @@ This is the **first project to apply neural networks for grammatical inference i
 - Introducing and evaluating neural approaches for Maltese morphology.
 - Demonstrating the effectiveness of transfer learning and domain-specific pre-training.
 - Laying the groundwork for future research in Maltese NLP applications.
+
+link to study: https://www.um.edu.mt/library/oar/handle/123456789/115279
